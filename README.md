@@ -18,9 +18,23 @@ This is a simple **number guessing game** written in Python. The game selects a 
 ## 🚀 Run the Game
 
 1. Clone or download this repository.
-2. Run the script using:
-
+2. Run the script using to create virtual environment:
    ```
-   source source venv/bin/activate
-   python number_guessing_game.py
+    Make venv
    ```
+3. Run the script using to activate virtual environment:
+   ```
+    Make activate
+   ```
+4. Run the script using to run the python program:
+   ```
+    Make activate
+   ```
+5. Run either of these command to run python code:
+    ```
+        Make run
+    ```
+    or
+    ```
+        python main.py 
+    ```

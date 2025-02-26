@@ -16,3 +16,7 @@ activate:
 # Deactivate virtual environment
 deactivate:
 	@echo "Run 'deactivate' inside the virtual environment to deactivate it."
+
+# Execute python program
+run:
+	$(PYTHON) main.py 
